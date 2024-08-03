@@ -1,0 +1,168 @@
+﻿
+User Guide for Invoicing System Application
+
+1. Overview
+
+This application is designed to manage products, categories, customers, and invoices. The home page provides navigation to four key areas through buttons:
+
+Manage Products
+Update Category
+Customer Info
+Generate Invoice
+
+
+2. Home Page
+
+When you launch the application, you'll see the home page with four buttons. Each button will take you to a different management window.
+
+Buttons Overview:
+Manage Products: Manage products including adding, updating, and viewing.
+Update Category: Manage product categories including adding, updating, and viewing.
+Customer Info: Manage customer information including adding, updating, and viewing.
+Generate Invoice: Generate invoices based on customer purchases.
+
+Home: Click on this button when in a different page to return to the homepage.
+Help: Open this help file.
+
+
+3. Manage Products
+
+Navigate to the Product Window:
+Click the Manage Products button on the home page.
+Select an Operation:
+Choose one of the three radio buttons at the top of the page: Add, Update, or View.
+
+Adding a Product
+Select the Add radio button.
+Enter Product Details:
+Name: Enter the product name.
+Description: Enter a brief description of the product.
+Price: Enter the product price (in dollars).
+Quantity: Enter the available quantity in stock.
+Category: Select the appropriate category from the dropdown list.
+Save the Product:
+Click the Add Product button to save the new product.
+
+Updating a Product
+Select the Update radio button.
+Select Product to Update:
+From the list of products, select the product you want to update.
+Update Product Details:
+Modify the details as needed (Name, Description, Price, Quantity, Category).
+Save Changes:
+Click the Update Product button to apply the changes.
+
+Viewing Products
+Viewing existing products
+Select the View radio button.
+View Products List:
+The list of products will be displayed, showing details such as name, description, price, quantity, and category.
+
+
+4. Update Category
+
+Navigate to the Category Window:
+Click the Update Category button on the home page.
+Select an Operation:
+Choose one of the three radio buttons at the top of the page: Add, Update, or View.
+
+Adding a Category
+Select the Add radio button.
+Enter Category Details:
+Name: Enter the category name.
+Description: Enter a brief description of the category.
+Save the Category:
+Click the Add Category button to save the new category.
+
+Updating a Category
+Select the Update radio button.
+Select Category to Update:
+From the list of categories, select the category you want to update.
+Update Category Details:
+Modify the details as needed (Description).
+Save Changes:
+Click the Update Category button to apply the changes.
+
+Viewing Categories
+Select the View radio button.
+View Categories List:
+The list of categories will be displayed, showing details such as name and description.
+
+
+5. Customer Info
+
+Navigate to the Customer Window:
+Click the Customer Info button on the home page.
+Select an Operation:
+Choose one of the three radio buttons at the top of the page: Add, Update, or View.
+
+Adding a Customer
+Select the Add radio button.
+Enter Customer Details:
+Name: Enter the customer’s name.
+Email: Enter the customer’s email address.
+Address: Enter the customer’s address.
+Contact Number: Enter the customer’s contact number.
+Save the Customer:
+Click the Add Customer button to save the new customer.
+
+Updating a Customer
+Select the Update radio button.
+Select Customer to Update:
+From the list of customers, select the customer you want to update.
+Update Customer Details:
+Modify the details as needed (Name, Email, Address, Contact Number).
+Save Changes:
+Click the Update Customer button to apply the changes.
+
+Viewing Customers
+Select the View radio button.
+View Customers List:
+The list of customers will be displayed, showing details such as name, email, address, and contact number.
+
+
+6. Generate Invoice
+
+Navigate to the Invoice Window:
+Click the Generate Invoice button on the home page.
+Select an Operation:
+Choose one of the two radio buttons at the top of the page: New Invoice or Invoice History.
+
+New Invoice
+Select the New Invoice radio button.
+Select Products and Update Quantity:
+Choose the products you want to add to the cart and specify the quantities.
+
+Add to Cart:
+Click the Add to Cart button to add the selected products to the cart.
+The grand total will be calculated in real-time, considering the tax and discount rates.
+
+View or Hide Cart:
+Click the View Cart button to see the items added to the cart.
+Click the Hide Cart button to hide the cart view.
+
+Select Customer:
+Choose the customer from the dropdown list.
+
+Select Payment Method:
+Select a payment method from the available options (e.g., Credit Card, Cash).
+
+Generate Invoice:
+Click the Generate Invoice button to create the invoice for the items in the cart.
+Invoice generated will be stored in 'Invoices' folder in the application path with file name as Customer Name with generated date and time (Customer_03-08-2024_04-00.txt)
+
+Invoice History
+Select the Invoice History radio button.
+View Previous Invoices:
+A list of previously generated invoices will be displayed, showing details such as invoice number, date, customer name, total amount, and payment method.
+
+
+7. Troubleshooting
+
+If you encounter any issues with adding, updating, or viewing records, ensure that all required fields are filled out correctly and try again.
+For problems related to navigation or application crashes, restart the application and check if the issue persists. Contact support if needed.
+
+
+8. Contact Information
+
+For further assistance, please contact support at [raorajath55@gmail.com].
